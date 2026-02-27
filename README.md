@@ -13,7 +13,7 @@
 
 I'm a **Full-stack Developer** based in Taipei, Taiwan, specializing in building robust backends with **Python (Django & FastAPI)** and dynamic frontends with **React**.
 
-Currently, I'm an intern at [<img src="https://img.shields.io/badge/Aircaft_Inc-207787?style=flat-square&logo=air-force&logoColor=white" />](https://www.aircraft.tw/). and a student at National Chengchi University.
+Currently, I'm an intern at [Aircraft Inc.](https://www.aircraft.tw/). and a student at National Chengchi University.
 
 ### Tech Stack & Tools
 
