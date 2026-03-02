@@ -14,13 +14,13 @@
 
 I'm a **Full-stack Developer** based in Taipei, Taiwan, specializing in building robust backends with **Python (Django & FastAPI)** and dynamic frontends with **React**.
 
-Currently, I'm an intern at [Aircraft Inc.](https://www.aircraft.tw/). and a student at National Chengchi University.
+Currently, I'm an intern at [Aircraft Inc.](https://www.aircraft.tw/) and a student at National Chengchi University, majoring in International Business.
 
 ### Tech Stack & Tools
 
 - **Backend:** Python (Django, FastAPI), PostgreSQL
 - **Frontend:** React, Flutter, JavaScript
-- **Tools:** Docker, LaTeX (Kaobook/Beamer), Pandoc
+- **Tools:** Docker, LaTeX, Pandoc
 - **Learning:** Go, Rust, Thai Language 🇹🇭
 
 ### Connect with me
