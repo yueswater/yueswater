@@ -1,5 +1,12 @@
 ## Yueswater Online!
 
+_____.___.                                      __                
+\__  |   |__ __   ____   ________  _  _______ _/  |_  ___________ 
+ /   |   |  |  \_/ __ \ /  ___/\ \/ \/ /\__  \\   __\/ __ \_  __ \
+ \____   |  |  /\  ___/ \___ \  \     /  / __ \|  | \  ___/|  | \/
+ / ______|____/  \___  >____  >  \/\_/  (____  /__|  \___  >__|   
+ \/                  \/     \/               \/          \/       
+
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
